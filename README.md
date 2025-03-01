@@ -11,3 +11,13 @@ Obtener tarea por ID: Recupera una tarea específica utilizando su identificador
 Crear nueva tarea: Permite agregar nuevas tareas a la base de datos.
 Actualizar tarea: Permite editar los detalles de una tarea existente.
 Eliminar tarea: Permite eliminar una tarea de la base de datos.
+
+Requerimientos:
+Instalar Node.js: Asegúrate de tener Node.js instalado en tu sistema.
+Instalar dependencias: Ejecuta el siguiente comando en la terminal:
+    npm install
+Ejecutar el proyecto: Usa el siguiente comando para iniciar la aplicación:
+    npm run dev
+Configurar Firebase:
+    Crea una cuenta en Firebase y configura una base de datos en Firestore.
+    Agrega el archivo de conexión de Firebase dentro de una carpeta llamada "config" en la raíz del proyecto.
